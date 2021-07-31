@@ -15,9 +15,9 @@
 + Qt Designer
 
 ### Site da Rockeseat: https://rocketseat.com.br/
+### Versão com banco de dados: https://github.com/GeovaniTech/dev_finances_rockeseat_python_v2.0
 
 ## Telas:
-
 
 ### Inicio
 ![Tela Inicial](https://user-images.githubusercontent.com/84943777/126876214-f3c2c9f3-fff7-46d3-9990-8cd0a1774c4d.png)
